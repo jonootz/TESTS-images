@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Topic"
+    Link="/Content/Topic.htm" />
+  <TocEntry
+    Title="Image pages">
+    <TocEntry
+      Title="bmp"
+      Link="/Content/bmp.htm" />
+    <TocEntry
+      Title="dib cur "
+      Link="/Content/dib_cur.htm" />
+    <TocEntry
+      Title="emf"
+      Link="/Content/emf.htm" />
+    <TocEntry
+      Title="eps"
+      Link="/Content/eps.htm" />
+    <TocEntry
+      Title="exps"
+      Link="/Content/exps.htm" />
+    <TocEntry
+      Title="gif"
+      Link="/Content/gif.htm" />
+    <TocEntry
+      Title="hdp"
+      Link="/Content/hdp.htm" />
+    <TocEntry
+      Title="jpg"
+      Link="/Content/jpg.htm" />
+    <TocEntry
+      Title="png"
+      Link="/Content/png.htm" />
+    <TocEntry
+      Title="ps"
+      Link="/Content/ps.htm" />
+    <TocEntry
+      Title="svg"
+      Link="/Content/svg.htm" />
+    <TocEntry
+      Title="swf"
+      Link="/Content/swf.htm" />
+    <TocEntry
+      Title="tif"
+      Link="/Content/tif.htm" />
+    <TocEntry
+      Title="wdp"
+      Link="/Content/wdp.htm" />
+    <TocEntry
+      Title="wmf"
+      Link="/Content/wmf.htm" />
+    <TocEntry
+      Title="xaml"
+      Link="/Content/xaml.htm" />
+    <TocEntry
+      Title="xps"
+      Link="/Content/xps.htm" />
+  </TocEntry>
+</CatapultToc>

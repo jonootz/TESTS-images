@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20px" PageSize="Letter">
+        <Frame Flow="header" Height="40px" Anchors="Left,Right,Top" Width="726px" Right="26px" Bottom="964px" X="24px" Y="12px" ColumnCount="1">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/wmf.wmf" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="40px" Anchors="Left,Right,Bottom" Right="27px" Bottom="17px" X="23px" Y="959px" Width="726px">
+        </Frame>
+        <Frame Flow="body" Y="62px" Bottom="69px" X="26px" Right="24px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="726px" Height="885px">
+        </Frame>
+    </Page>
+</PageStyles>

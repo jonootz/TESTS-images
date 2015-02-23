@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="1" 
+	Comment="XHTML Book Target" 
+	Type="HTML"
+  GlossaryTermConversion="marked">
+</CatapultTarget>
